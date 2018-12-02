@@ -1,0 +1,13 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\bin\Debug\Tables.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\bin\Debug\Tables.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\bin\Debug\Tables.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.Form1.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.NewHall.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.EditHallForm.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.AddTable.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Tables\Tables\obj\Debug\Tables.Offer.resources
